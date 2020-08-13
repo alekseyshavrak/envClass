@@ -2,5 +2,5 @@
 
 Создать файл .env
 ```
-cp .env.exaple .env
+cp .env.example .env
 ```
